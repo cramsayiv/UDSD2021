@@ -1,0 +1,92 @@
+Class overview:
+Design Patterns - ways to discuss solving real problems
+Working on a software development on a team
+Project 50/ exams 40/ quizzes 10
+Project: 4 2-week sessions
+Recommended textbook: Head First Design Patterns
+Daily Quizzes!
+Random teammates- meet virtually
+The process is the important part - focus on the way that we build this
+Bi-Weekly reviews
+Software management techniques
+
+Agile software development
+Domain of people who manage programmers
+
+Use methodologies to improve Software
+-quality: maintainability etc...
+-timeliness
+-replicability
+-documentation
+-accountability
+
+Waterfall method for planning in advance
+-requirement gathering complete before planning ends
+-tight controls of schedules and timeliness
+-predictable development cycle
+Drawbacks: feedback late in project, unexpected circumstances have outsized
+  impact
+
+Agile software development
+-most modern software development
+-cyclical build mechanism: design/build/test
+-promotes experimental Design
+-great for collaboration
+Drawbacks: lacks structure, hard to predict timelines and budget, team turnover
+  is risky
+
+Team roles:
+-product owner: cares about what is being built- cares about product
+-project manager: is concerned with how the product is being built- cares about
+  team
+-design: technical, UX, art
+-developers
+-QA: user advocates
+-release management
+
+Project lifecycle
+big projects are built out of smaller blocks
+-consists of a series of 2-week sprints
+-after every project, sometimes released
+-project direction and duration can change over the course of this project
+
+Sprint lifecycle
+a series of ceremonies
+-refinement
+-planning
+-daily standup/ scrum
+-demo
+retrospective
+
+Tasks: The smallest unit of development
+-a single, self-contained development element in your product
+-a single function, endpoint, screen, input widget, animation, etc...
+-a task is something that's understood
+-a spike requires research and we don't know how long they should take
+-1 hour-3 days
+-a task identifies the work that's going to be done
+-estimate the amount of time it will take you
+-figure out team velocity eventually
+
+Planning a sprint:
+-estimate our tasks during refinement and planning
+-Fibonacci
+-planning poker and t-shirt sizes
+-too large tasks must be broken down
+
+Scrum:
+-use the scrum process to communicate with teammates daily
+-typically a daily standup- 15 minutes
+-roles:
+  -chickens: not totally committed- not talking but maybe answering questions
+    and observing the meeting
+  -pigs: totally committed to the team- do the talking during standup
+-what we've done, what we're going to do, and any obstacles
+
+Demo & Retro:
+-two different activities at the end of the sprint
+-demo shows- asks for feedback. by project manager to owner
+-retro by team to discuss how the sprint went
+
+Kanban:
+-can be done within agile but it isn't a part of Agile
